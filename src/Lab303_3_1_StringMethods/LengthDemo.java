@@ -1,4 +1,4 @@
-package Lab303_3_1;
+package Lab303_3_1_StringMethods;
 
 public class LengthDemo {
     public static void main(String[] args) {

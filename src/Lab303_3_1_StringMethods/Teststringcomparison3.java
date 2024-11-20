@@ -1,4 +1,4 @@
-package Lab303_3_1;
+package Lab303_3_1_StringMethods;
 
 public class Teststringcomparison3 {
     public static void main(String args[]){
