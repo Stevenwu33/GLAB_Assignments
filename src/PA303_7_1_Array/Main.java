@@ -9,6 +9,16 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Main main = new Main();
+        main.taskOne();
+        main.taskTwo();
+        main.taskThree();
+        main.taskFour();
+        main.taskFive();
+        main.taskSix();
+        main.taskSeven();
+        main.taskEight();
+        main.taskNine();
+        main.taskTen();
         main.taskEleven();
     }
 
