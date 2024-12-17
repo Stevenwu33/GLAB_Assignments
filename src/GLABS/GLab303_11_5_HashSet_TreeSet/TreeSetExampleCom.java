@@ -2,7 +2,7 @@ package GLABS.GLab303_11_5_HashSet_TreeSet;
 
 import java.util.TreeSet;
 
-public class TreeSetExampleFour {
+public class TreeSetExampleCom {
 
     public static void main(String[] args) {
 
